@@ -110,4 +110,4 @@ MIT License — see [LICENSE](LICENSE).
 
 ## Contact
 
-Jiahang Luo — jiahangluo@uchicago.edu
+Jiahang Luo — jiahangluo@icloud.com
